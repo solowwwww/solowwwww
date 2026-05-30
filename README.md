@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, i'm Rekwaza !</h1>
+<h1 align="center">👋 Hey, i'm Solow !</h1>
 
 ---
 
@@ -6,7 +6,7 @@
 
 - 🎂 18yo
 - 💻 Coding Python, Java, Lua
-- 📚 Not Studying
+- 📚 Chommage
 
 ---
 
